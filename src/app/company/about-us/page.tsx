@@ -74,7 +74,7 @@ const Careers = () => {
     <div className="mb-16 px-24">
         <h2 className="text-center text-mainColor text-3xl mb-4">This unique approach was achieved over the years with:</h2>
         <div className="flex space-x-8">
-            <div className='cursor-pointer w-[20vw] h-[43vh]'>
+            <div className='w-[20vw] h-[43vh]'>
                 <div style={{width: "100%",height: "80%"}}>
                     <Image src="https://www.tenaquip.com/tenaquip/images/mini-banner/catalogue.jpg?1527076329" alt='' width={463} height={233} />
                 </div>
