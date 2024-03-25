@@ -19,7 +19,7 @@ const Careers = () => {
           objectFit="cover"
         />
         <div className="absolute inset-0 flex items-center px-16">
-          <h1 className="text-white text-5xl font-semibold">CAREERS</h1>
+          <h1 className="text-white text-5xl font-semibold text-shadow-lg shadow-black">CAREERS</h1>
         </div>
       </div>
 

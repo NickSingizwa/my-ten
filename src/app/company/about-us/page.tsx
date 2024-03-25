@@ -19,7 +19,7 @@ const Careers = () => {
           objectFit="cover"
         />
         <div className="absolute inset-0 flex items-center px-16">
-          <h1 className="text-white text-5xl font-semibold">ABOUT US</h1>
+          <h1 className="text-white text-5xl font-semibold text-shadow-lg shadow-black">ABOUT US</h1>
         </div>
       </div>
 
@@ -84,7 +84,7 @@ const Careers = () => {
                 </div>
             </div>
 
-            <div className='cursor-pointer w-[20vw] h-[43vh]'>
+            <div className='w-[20vw] h-[43vh]'>
                 <div style={{width: "100%",height: "80%"}}>
                     <Image src="https://www.tenaquip.com/tenaquip/images/mini-banner/catalogue.jpg?1527076329" alt='' width={463} height={233} />
                 </div>
