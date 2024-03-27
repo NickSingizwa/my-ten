@@ -3,7 +3,7 @@ import Landing from "@/components/Landing/Landing";
 import Tenaway from "@/components/Tenaway/Tenaway";
 import React from "react";
 
-const SatisfactionGuarantee = () => {
+const TenaquipWay = () => {
   return (
     <div className="relative">
       <Landing title="THE TENAQUIP WAY" imageUrl="https://www.tenaquip.com/tenaquip/images/pages/company/thetenaquipway/banner.jpg"/>
@@ -39,4 +39,4 @@ const SatisfactionGuarantee = () => {
   );
 };
 
-export default SatisfactionGuarantee;
+export default TenaquipWay;

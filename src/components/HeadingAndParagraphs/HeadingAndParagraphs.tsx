@@ -11,7 +11,7 @@ export type HeadingAndParagraphsProps = {
 
 const HeadingAndParagraphs = ({title,paragraph,buttonTitle,buttonLink}: HeadingAndParagraphsProps)=> {
   return (
-    <div className="mt-16 px-16 w-[80vw]">
+    <div className="w-[100%]">
     <h2 className="text-mainColor text-3xl mb-5">{title}</h2>
     <p className="text-black mb-3">
         {paragraph}
